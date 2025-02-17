@@ -1,2 +1,14 @@
 .DS_Store
 .env
+# Ignorar archivos Python
+*.pyc
+*.pyo
+
+# Ignorar archivos de salida de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar carpetas y archivos de compilación
+node_modules/
+dist/
+build/
+
