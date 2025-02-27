@@ -1,3 +1,9 @@
 Curso Python. Expresiones regulares I. Vídeo 69     	https://youtu.be/qpwn3gRtxCo?si=qDDZpfxgpzZ6nKww
+Python Crash Course       https://github.com/Koladiyahardik/Python/blob/main/Python%20Crash%20Course%20(3rd%20Edition).pdf
+Python for Data Analysis      https://wesmckinney.com/book/
+
+
+
+
 https://es.educaplay.com/recursos-educativos/22541854-tipos_de_datos_y_adquisicion_de_datos_en_python.html
 https://classroom.google.com/c/Njg4NjAzMTkwOTQ2?cjc=w5ozmxq
