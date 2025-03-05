@@ -5,8 +5,10 @@ Kaggle Datasets  https://www.kaggle.com/datasets
 
 
 
+
 Videos
 Page Rank  (algoritmo) -> https://youtu.be/b3fwA3EWCd8?si=EHNayQ2espKBlM81
+Grafos  --> https://youtu.be/HYGd2UMRb-o?si=UBEDRIFKKTXhpFYm
 
 
 
