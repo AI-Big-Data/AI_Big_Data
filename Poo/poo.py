@@ -44,7 +44,7 @@ class Medico(Persona):
 class SistemaHospital:
     def ejecutar(self):
         # Creación de instancias de Paciente y Medico
-       def ajecutar(self):
+       def ejecutar(self):
         paciente1 = Paciente("Juan Pérez", 30, "Masculino", "P001", "Hipertensión")
         medico1 = Medico("Dra. Ana Gómez", 35, "Femenino", "Cardiología")
         # Mostrar información del paciente
