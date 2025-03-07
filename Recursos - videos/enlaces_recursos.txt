@@ -9,7 +9,7 @@ Kaggle Datasets  https://www.kaggle.com/datasets
 Videos
 Page Rank  (algoritmo) -> https://youtu.be/b3fwA3EWCd8?si=EHNayQ2espKBlM81
 Grafos  --> https://youtu.be/HYGd2UMRb-o?si=UBEDRIFKKTXhpFYm
-
+Scrum -->  https://youtu.be/sLexw-z13Fo?si=aVI-kD_ADN_UbDGT
 
 
 https://es.educaplay.com/recursos-educativos/22541854-tipos_de_datos_y_adquisicion_de_datos_en_python.html
